@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/br.javamodule.core/br.javamodule.core.iml" filepath="$PROJECT_DIR$/br.javamodule.core/br.javamodule.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.javamodule.core.util/br.javamodule.core.util.iml" filepath="$PROJECT_DIR$/br.javamodule.core.util/br.javamodule.core.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.javamodule.test/br.javamodule.test.iml" filepath="$PROJECT_DIR$/br.javamodule.test/br.javamodule.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-modular.iml" filepath="$PROJECT_DIR$/java-modular.iml" />
+    </modules>
+  </component>
+</project>
